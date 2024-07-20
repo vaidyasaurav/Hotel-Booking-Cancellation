@@ -15,7 +15,7 @@ This project aims to analyze hotel booking cancellations using data analysis tec
   
 ### Tools and Technologies:
 
-- Microsoft Excel: For data cleaning, analysis, and visualization.[Download Here](https://www.microsoft.com)
+- Microsoft Excel: For data cleaning, analysis, and visualization. [Download Here](https://www.microsoft.com)
 - Data Sources: Hotel booking databases, third-party booking platforms, and other relevant sources.
 ### Methodology:
 
