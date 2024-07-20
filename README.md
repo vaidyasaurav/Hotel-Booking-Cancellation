@@ -12,10 +12,10 @@ This project aims to analyze hotel booking cancellations using data analysis tec
 - Identify Key Factors: Analyze the data to determine the key factors influencing booking cancellations, such as booking lead time, customer demographics, booking channels, and seasonal trends.
 - Visualization: Create visual representations of the data, such as charts and graphs, to illustrate the findings.
 - Recommendations: Provide actionable insights and recommendations for hotel management to reduce cancellation rates.
-- 
+  
 ### Tools and Technologies:
 
-- Microsoft Excel: For data cleaning, analysis, and visualization.
+- Microsoft Excel: For data cleaning, analysis, and visualization.[Download Here](https://www.microsoft.com)
 - Data Sources: Hotel booking databases, third-party booking platforms, and other relevant sources.
 ### Methodology:
 
