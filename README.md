@@ -1,6 +1,16 @@
 # Hotel-Booking-Cancellation
 Analyzing Hotel Booking Cancellations Using Excel
 
+## Table Of Content
+
+- [Project Overview](#project-overview)
+- [Objectives](#objective)
+- [Tools and Technologies](#tools-and-technologies)
+- [Methodology](#methodology)
+- [Recommendation](#recommendation)
+- [Deliverables](#deliverables)
+- [Conclusion](#conclusion)
+
 ### Project Overview:
 
 This project aims to analyze hotel booking cancellations using data analysis techniques and Excel. The goal is to identify patterns and factors that contribute to cancellations, ultimately providing insights that can help hotels reduce their cancellation rates and improve customer satisfaction.
@@ -17,6 +27,7 @@ This project aims to analyze hotel booking cancellations using data analysis tec
 
 - Microsoft Excel: For data cleaning, analysis, and visualization. [Download Here](https://www.microsoft.com)
 - Data Sources: Hotel booking databases, third-party booking platforms, and other relevant sources.
+- 
 ### Methodology:
 
 - Data Collection:
